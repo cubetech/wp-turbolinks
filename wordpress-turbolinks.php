@@ -2,9 +2,10 @@
 
 /*
 Plugin Name: WordPress Turbolinks
-Description: Implement the Turbolinks feature of Rails 4.0 for WordPress
-Author: Adam Pope
-Author URI: http://www.stormconsultancy.co.uk
+Description: Implement the Turbolinks feature of Rails for WordPress
+Author: cubetech GmbH
+Author URI: https://www.cubetech.ch
+Version: 1.1
 
 This is an experimental port of @dhh's Turbolinks gem for Rails
 
